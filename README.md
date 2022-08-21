@@ -1,6 +1,6 @@
 <h1 align="center">Hi ,I'm Hitesh Tyagi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A small coder from India and I am a intense learner ,  Learning new technologies and have interest  in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hiteshty&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshty" /> </p>
